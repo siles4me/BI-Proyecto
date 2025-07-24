@@ -1,0 +1,26 @@
+﻿{
+  "name": "Corporate Modern",
+  "dataColors": [
+    "#3B82F6",
+    "#1F2937",
+    "#10B981",
+    "#EF4444",
+    "#6B7280",
+    "#E5E7EB",
+    "#111827"
+  ],
+  "visualStyles": {},
+  "background": "#FFFFFF",
+  "foreground": "#111827",
+  "tableAccent": "#3B82F6",
+  "maximum": "#10B981",
+  "center": "#6B7280",
+  "minimum": "#EF4444",
+  "bad": "#EF4444",
+  "neutral": "#6B7280",
+  "good": "#10B981",
+  "foregroundNeutralSecondary": "#6B7280",
+  "backgroundLight": "#F9FAFB",
+  "foregroundNeutralTertiary": "#9CA3AF",
+  "backgroundNeutral": "#E5E7EB"
+}
